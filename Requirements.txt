@@ -1,0 +1,9 @@
+streamlit 
+numpy
+pandas
+matplotlib.pyplot
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
+pickle
+scikit-learn
